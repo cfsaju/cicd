@@ -1,6 +1,6 @@
  <form action="action_page.php" method="post">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="CI CD complete Updated Saju" class="Saju">
+    <img src="img_avatar2.png" alt="Automated Deployment in Tomcat" class="Saju">
   </div>
 
   <div class="container">
